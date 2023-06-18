@@ -1,0 +1,9 @@
+com.andrirahmadani.listcode.test.app-core-1.5.0-0 C:\Users\acer\.gradle\caches\transforms-3\3a0f1f29b9b508714fdb2eeec450727f\transformed\core-1.5.0\res
+com.andrirahmadani.listcode.test.app-annotation-experimental-1.3.0-1 C:\Users\acer\.gradle\caches\transforms-3\b46646453c391fe6a706b89dc8b50dc4\transformed\annotation-experimental-1.3.0\res
+com.andrirahmadani.listcode.test.app-androidTest-2 D:\amanda\fajar\app\build\generated\res\resValues\androidTest\debug
+com.andrirahmadani.listcode.test.app-androidTest-3 D:\amanda\fajar\app\build\generated\res\rs\androidTest\debug
+com.andrirahmadani.listcode.test.app-mergeDebugAndroidTestResources-4 D:\amanda\fajar\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.andrirahmadani.listcode.test.app-mergeDebugAndroidTestResources-5 D:\amanda\fajar\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.andrirahmadani.listcode.test.app-merged_res-6 D:\amanda\fajar\app\build\intermediates\merged_res\debugAndroidTest
+com.andrirahmadani.listcode.test.app-androidTest-7 D:\amanda\fajar\app\src\androidTest\res
+com.andrirahmadani.listcode.test.app-androidTestDebug-8 D:\amanda\fajar\app\src\androidTestDebug\res
