@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.modul7.listcode"
+    package="com.andrirahmadani.listcode"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -9,10 +9,10 @@
         android:targetSdkVersion="33" />
 
     <permission
-        android:name="com.modul7.listcode.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:name="com.andrirahmadani.listcode.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.modul7.listcode.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+    <uses-permission android:name="com.andrirahmadani.listcode.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
         android:allowBackup="true"
@@ -37,17 +37,17 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.modul7.listcode.DetailCodeActivity"
+            android:name="com.andrirahmadani.listcode.DetailCodeActivity"
             android:exported="false"
-            android:parentActivityName="com.modul7.listcode.MainActivity" />
+            android:parentActivityName="com.andrirahmadani.listcode.MainActivity" />
         <activity
-            android:name="com.modul7.listcode.MainActivity"
+            android:name="com.andrirahmadani.listcode.MainActivity"
             android:exported="true" >
         </activity>
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.modul7.listcode.androidx-startup"
+            android:authorities="com.andrirahmadani.listcode.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"

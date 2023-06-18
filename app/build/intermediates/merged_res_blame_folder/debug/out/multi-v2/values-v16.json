@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.modul7.listcode.app-mergeDebugResources-29:/values-v16/values-v16.xml",
+            "outputFile": "com.andrirahmadani.listcode.app-mergeDebugResources-29:/values-v16/values-v16.xml",
             "map": [
                 {
                     "source": "C:\\Users\\acer\\.gradle\\caches\\transforms-3\\a4522fe6b275a4534bfc0eadc1a8e0f8\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",

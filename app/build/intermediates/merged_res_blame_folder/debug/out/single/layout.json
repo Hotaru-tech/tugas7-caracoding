@@ -1,30 +1,30 @@
 [
     {
-        "merged": "com.modul7.listcode.app-mergeDebugResources-30:/layout/activity_main.xml",
-        "source": "com.modul7.listcode.app-main-33:/layout/activity_main.xml"
+        "merged": "com.andrirahmadani.listcode.app-mergeDebugResources-30:/layout/fragment_code.xml",
+        "source": "com.andrirahmadani.listcode.app-main-33:/layout/fragment_code.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-mergeDebugResources-30:/layout/slideritem.xml",
-        "source": "com.modul7.listcode.app-main-33:/layout/slideritem.xml"
+        "merged": "com.andrirahmadani.listcode.app-mergeDebugResources-30:/layout/code_item.xml",
+        "source": "com.andrirahmadani.listcode.app-main-33:/layout/code_item.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-mergeDebugResources-30:/layout/code_item.xml",
-        "source": "com.modul7.listcode.app-main-33:/layout/code_item.xml"
+        "merged": "com.andrirahmadani.listcode.app-mergeDebugResources-30:/layout/fragment_profil.xml",
+        "source": "com.andrirahmadani.listcode.app-main-33:/layout/fragment_profil.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-mergeDebugResources-30:/layout/fragment_code.xml",
-        "source": "com.modul7.listcode.app-main-33:/layout/fragment_code.xml"
+        "merged": "com.andrirahmadani.listcode.app-mergeDebugResources-30:/layout/activity_splash_screen.xml",
+        "source": "com.andrirahmadani.listcode.app-main-33:/layout/activity_splash_screen.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-mergeDebugResources-30:/layout/activity_detail_code.xml",
-        "source": "com.modul7.listcode.app-main-33:/layout/activity_detail_code.xml"
+        "merged": "com.andrirahmadani.listcode.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.andrirahmadani.listcode.app-main-33:/layout/activity_main.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-mergeDebugResources-30:/layout/activity_splash_screen.xml",
-        "source": "com.modul7.listcode.app-main-33:/layout/activity_splash_screen.xml"
+        "merged": "com.andrirahmadani.listcode.app-mergeDebugResources-30:/layout/slideritem.xml",
+        "source": "com.andrirahmadani.listcode.app-main-33:/layout/slideritem.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-mergeDebugResources-30:/layout/fragment_profil.xml",
-        "source": "com.modul7.listcode.app-main-33:/layout/fragment_profil.xml"
+        "merged": "com.andrirahmadani.listcode.app-mergeDebugResources-30:/layout/activity_detail_code.xml",
+        "source": "com.andrirahmadani.listcode.app-main-33:/layout/activity_detail_code.xml"
     }
 ]

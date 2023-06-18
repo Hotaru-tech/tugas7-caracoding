@@ -1,202 +1,202 @@
 [
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/drawable_fs2.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/drawable/fs2.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/drawable_foto4.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/drawable/foto4.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/drawable_ic_night.xml.flat",
-        "source": "com.modul7.listcode.app-main-33:/drawable/ic_night.xml"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/drawable_foto5.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/drawable/foto5.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/layout_fragment_profil.xml.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/layout/fragment_profil.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.modul7.listcode.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/drawable_fs1.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/drawable/fs1.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/drawable_ic_code.xml.flat",
-        "source": "com.modul7.listcode.app-main-33:/drawable/ic_code.xml"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/drawable_slider1.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/drawable/slider1.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/menu_button_nav_id.xml.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/menu/button_nav_id.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/mipmap-hdpi/ic_launcher.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/mipmap-xxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/drawable_foto2.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/drawable/foto2.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/drawable_ic_computer.xml.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/drawable/ic_computer.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/mipmap-mdpi/ic_launcher_foreground.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/drawable_ic_night.xml.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/drawable/ic_night.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/drawable_ic_computer.xml.flat",
-        "source": "com.modul7.listcode.app-main-33:/drawable/ic_computer.xml"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/drawable_ic_service.xml.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/drawable/ic_service.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/drawable_ic_service.xml.flat",
-        "source": "com.modul7.listcode.app-main-33:/drawable/ic_service.xml"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/drawable_slider2.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/drawable/slider2.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/drawable_ic_code.xml.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/drawable/ic_code.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/layout/activity_main.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/drawable_fajar.jpeg.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/drawable/fajar.jpeg"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/drawable_ic_splash.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/drawable/ic_splash.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/layout_activity_splash_screen.xml.flat",
-        "source": "com.modul7.listcode.app-main-33:/layout/activity_splash_screen.xml"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/mipmap-hdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/drawable_baseline_smartphone_24.xml.flat",
-        "source": "com.modul7.listcode.app-main-33:/drawable/baseline_smartphone_24.xml"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/drawable_foto6.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/drawable/foto6.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/drawable_foto5.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/drawable/foto5.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/mipmap-xhdpi/ic_launcher_foreground.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/drawable_foto1.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/drawable/foto1.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/layout_slideritem.xml.flat",
-        "source": "com.modul7.listcode.app-main-33:/layout/slideritem.xml"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/drawable_ic_profil.xml.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/drawable/ic_profil.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/drawable_foto3.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/drawable/foto3.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/drawable_fajar.jpeg.flat",
-        "source": "com.modul7.listcode.app-main-33:/drawable/fajar.jpeg"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/layout_activity_splash_screen.xml.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/layout/activity_splash_screen.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/layout_activity_detail_code.xml.flat",
-        "source": "com.modul7.listcode.app-main-33:/layout/activity_detail_code.xml"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/layout_fragment_code.xml.flat",
-        "source": "com.modul7.listcode.app-main-33:/layout/fragment_code.xml"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/layout_activity_detail_code.xml.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/layout/activity_detail_code.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/drawable_ic_light.xml.flat",
-        "source": "com.modul7.listcode.app-main-33:/drawable/ic_light.xml"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/layout_code_item.xml.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/layout/code_item.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/drawable_ic_task.xml.flat",
-        "source": "com.modul7.listcode.app-main-33:/drawable/ic_task.xml"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/layout_slideritem.xml.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/layout/slideritem.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/mipmap-xxhdpi/ic_launcher_foreground.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/drawable_slider1.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/drawable/slider1.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/drawable_slider3.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/drawable/slider3.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/drawable_slider2.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/drawable/slider2.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/xml_backup_rules.xml.flat",
-        "source": "com.modul7.listcode.app-main-33:/xml/backup_rules.xml"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/menu_button_nav_id.xml.flat",
-        "source": "com.modul7.listcode.app-main-33:/menu/button_nav_id.xml"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/drawable_fs3.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/drawable/fs3.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
-        "source": "com.modul7.listcode.app-main-33:/xml/data_extraction_rules.xml"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/drawable_baseline_smartphone_24.xml.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/drawable/baseline_smartphone_24.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/drawable_fs1.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/drawable/fs1.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/drawable_foto6.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/drawable/foto6.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/drawable_fs3.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/drawable/fs3.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/mipmap-xhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.modul7.listcode.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/mipmap-xxxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.modul7.listcode.app-main-33:/drawable/ic_launcher_background.xml"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/drawable_foto2.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/drawable/foto2.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/drawable_ic_splash.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/drawable/ic_splash.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/drawable_foto4.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/drawable/foto4.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/drawable_fs2.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/drawable/fs2.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/drawable_ic_light.xml.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/drawable/ic_light.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/mipmap-hdpi/ic_launcher_foreground.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/mipmap-mdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/drawable_foto1.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/drawable/foto1.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/mipmap-mdpi/ic_launcher.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/layout_code_item.xml.flat",
-        "source": "com.modul7.listcode.app-main-33:/layout/code_item.xml"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/drawable_ic_profil.xml.flat",
-        "source": "com.modul7.listcode.app-main-33:/drawable/ic_profil.xml"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/layout_fragment_code.xml.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/layout/fragment_code.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/layout_activity_main.xml.flat",
-        "source": "com.modul7.listcode.app-main-33:/layout/activity_main.xml"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/xml/backup_rules.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/layout_fragment_profil.xml.flat",
-        "source": "com.modul7.listcode.app-main-33:/layout/fragment_profil.xml"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/drawable_slider3.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/drawable/slider3.png"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/drawable_ic_task.xml.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/drawable/ic_task.xml"
     },
     {
-        "merged": "com.modul7.listcode.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "com.modul7.listcode.app-main-33:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "com.andrirahmadani.listcode.app-merged_res-31:/drawable_foto3.png.flat",
+        "source": "com.andrirahmadani.listcode.app-main-33:/drawable/foto3.png"
     }
 ]
