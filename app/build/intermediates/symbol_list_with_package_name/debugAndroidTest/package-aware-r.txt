@@ -1,3 +1,0 @@
-com.andrirahmadani.listcode.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme

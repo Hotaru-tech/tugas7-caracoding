@@ -7,12 +7,12 @@ import android.view.MenuItem
 import androidx.appcompat.app.AppCompatDelegate
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
-import com.modul7.listcode.databinding.ActivityMainBinding
+import com.andrirahmadani.listcode.databinding.ActivityMainBinding
 
 import com.modul7.listcode.fragment.CodeFragment
 import com.andrirahmadani.listcode.fragment.ProfilFragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
-import com.modul7.listcode.R
+import com.andrirahmadani.listcode.R
 
 class MainActivity : AppCompatActivity() {
 

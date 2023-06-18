@@ -8,6 +8,8 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.andrirahmadani.listcode.CodeModel
+
+import com.andrirahmadani.listcode.R
 import com.modol7.listcode.DetailCodeActivity
 
 

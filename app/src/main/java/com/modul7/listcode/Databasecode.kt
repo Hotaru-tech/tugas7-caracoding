@@ -2,7 +2,7 @@ package com.modul7.listcode
 
 import com.andrirahmadani.listcode.CodeModel
 
-import com.modul7.listcode.R
+import com.andrirahmadani.listcode.R
 
 val listHewan: List<CodeModel> = listOf(
     CodeModel(

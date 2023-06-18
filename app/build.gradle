@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.modul7.listcode'
+    namespace 'com.andrirahmadani.listcode'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.modul7.listcode"
+        applicationId "com.andrirahmadani.listcode"
         minSdk 24
         targetSdk 33
         versionCode 1

@@ -8,7 +8,7 @@ import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.app.ActionBar
-import com.modul7.listcode.R
+import com.andrirahmadani.listcode.R
 
 class DetailCodeActivity : AppCompatActivity() {
     companion object {

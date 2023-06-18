@@ -1,87 +1,87 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.modul7.listcode"
+3    package="com.andrirahmadani.listcode"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="24"
-8-->D:\amanda\fajar\app\src\main\AndroidManifest.xml
+8-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->D:\amanda\fajar\app\src\main\AndroidManifest.xml
+9-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml
 10
 11    <permission
 11-->[androidx.core:core:1.9.0] C:\Users\acer\.gradle\caches\transforms-3\a4522fe6b275a4534bfc0eadc1a8e0f8\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
-12        android:name="com.modul7.listcode.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12        android:name="com.andrirahmadani.listcode.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
 12-->[androidx.core:core:1.9.0] C:\Users\acer\.gradle\caches\transforms-3\a4522fe6b275a4534bfc0eadc1a8e0f8\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
 13        android:protectionLevel="signature" />
 13-->[androidx.core:core:1.9.0] C:\Users\acer\.gradle\caches\transforms-3\a4522fe6b275a4534bfc0eadc1a8e0f8\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
 14
-15    <uses-permission android:name="com.modul7.listcode.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15    <uses-permission android:name="com.andrirahmadani.listcode.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 15-->[androidx.core:core:1.9.0] C:\Users\acer\.gradle\caches\transforms-3\a4522fe6b275a4534bfc0eadc1a8e0f8\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
 15-->[androidx.core:core:1.9.0] C:\Users\acer\.gradle\caches\transforms-3\a4522fe6b275a4534bfc0eadc1a8e0f8\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:5:5-36:19
+17-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:5:5-36:19
 18        android:allowBackup="true"
-18-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:6:9-35
+18-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.9.0] C:\Users\acer\.gradle\caches\transforms-3\a4522fe6b275a4534bfc0eadc1a8e0f8\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 20        android:dataExtractionRules="@xml/data_extraction_rules"
-20-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:7:9-65
+20-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:7:9-65
 21        android:debuggable="true"
 22        android:extractNativeLibs="false"
 23        android:fullBackupContent="@xml/backup_rules"
-23-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:8:9-54
+23-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:8:9-54
 24        android:icon="@mipmap/ic_launcher"
-24-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:9:9-43
+24-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:9:9-43
 25        android:label="@string/app_name"
-25-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:10:9-41
+25-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:10:9-41
 26        android:supportsRtl="true"
-26-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:11:9-35
+26-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:11:9-35
 27        android:testOnly="true"
 28        android:theme="@style/Theme.caracoding" >
-28-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:12:9-48
+28-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:12:9-48
 29        <activity
-29-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:15:9-26:20
+29-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:15:9-26:20
 30            android:name="com.modul7.listcode.SplashScreenActivity"
-30-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:16:13-68
+30-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:16:13-68
 31            android:exported="true"
-31-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:17:13-36
+31-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:17:13-36
 32            android:screenOrientation="portrait" >
-32-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:18:13-49
+32-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:18:13-49
 33            <intent-filter>
-33-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:20:13-24:29
+33-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:20:13-24:29
 34                <action android:name="android.intent.action.MAIN" />
-34-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:21:17-69
-34-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:21:25-66
+34-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:21:17-69
+34-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:21:25-66
 35
 36                <category android:name="android.intent.category.LAUNCHER" />
-36-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:23:17-77
-36-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:23:27-74
+36-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:23:17-77
+36-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:23:27-74
 37            </intent-filter>
 38        </activity>
 39        <activity
-39-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:27:9-30:58
-40            android:name="com.modul7.listcode.DetailCodeActivity"
-40-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:28:13-47
+39-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:27:9-30:58
+40            android:name="com.andrirahmadani.listcode.DetailCodeActivity"
+40-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:28:13-47
 41            android:exported="false"
-41-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:29:13-37
-42            android:parentActivityName="com.modul7.listcode.MainActivity" />
-42-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:30:13-55
+41-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:29:13-37
+42            android:parentActivityName="com.andrirahmadani.listcode.MainActivity" />
+42-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:30:13-55
 43        <activity
-43-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:31:9-35:20
-44            android:name="com.modul7.listcode.MainActivity"
-44-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:32:13-41
+43-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:31:9-35:20
+44            android:name="com.andrirahmadani.listcode.MainActivity"
+44-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:32:13-41
 45            android:exported="true" >
-45-->D:\amanda\fajar\app\src\main\AndroidManifest.xml:33:13-36
+45-->D:\amanda\fajar2\app\src\main\AndroidManifest.xml:33:13-36
 46        </activity>
 47
 48        <provider
 48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\acer\.gradle\caches\transforms-3\c41b4469453a8a9f9613e5cbc1cd1923\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
 49            android:name="androidx.startup.InitializationProvider"
 49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\acer\.gradle\caches\transforms-3\c41b4469453a8a9f9613e5cbc1cd1923\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-50            android:authorities="com.modul7.listcode.androidx-startup"
+50            android:authorities="com.andrirahmadani.listcode.androidx-startup"
 50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\acer\.gradle\caches\transforms-3\c41b4469453a8a9f9613e5cbc1cd1923\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
 51            android:exported="false" >
 51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\acer\.gradle\caches\transforms-3\c41b4469453a8a9f9613e5cbc1cd1923\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37

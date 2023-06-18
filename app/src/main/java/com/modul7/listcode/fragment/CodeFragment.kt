@@ -10,7 +10,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.modul7.listcode.CodeAdapter
 
 import com.modul7.listcode.listHewan
-import com.modul7.listcode.R
+import com.andrirahmadani.listcode.R
 
 import com.modul7.listcode.SliderAdapter
 import com.modul7.listcode.listHewan
